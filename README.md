@@ -1,2 +1,2 @@
 ![](https://im7.ezgif.com/tmp/ezgif-7-79e60c8203a3.gif)
-`hot`
+[`hot`](https://youtube.com)
