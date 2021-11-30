@@ -1,4 +1,4 @@
-![](https://im7.ezgif.com/tmp/ezgif-7-79e60c8203a3.gif)
+![](https://imgur.com/a/eXA47TS)
 `Study📚 - Code👨🏻‍💻 - Sleep🛌🏻 - Repeat🔁`
 
 
