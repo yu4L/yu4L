@@ -1,4 +1,4 @@
-![](https://imgur.com/a/eXA47TS)
+![](https://media.giphy.com/media/B9djbR1GZgEaPwBTX8/giphy.gif)
 `Study📚 - Code👨🏻‍💻 - Sleep🛌🏻 - Repeat🔁`
 
 
