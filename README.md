@@ -15,7 +15,7 @@
   </p>
 <p align="center"><br>
   <a href="https://discord.com/users/605760781664911380">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yungbeatz"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yung&theme=dark"/>
      </a>
 </p>
 <p align="center"><br>
