@@ -1,8 +1,10 @@
 
 ![](https://i.imgur.com/6mzd0bZ.gif)
 
-  
-`Study📚 - Code👨🏻‍💻 - Sleep🛌🏻 - Repeat🔁`
+ <p align="center">
+ Study📚 - Code👨🏻‍💻 - Sleep🛌🏻 - Repeat🔁
+</p>
+
 
 
 
