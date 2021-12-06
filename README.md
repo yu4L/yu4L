@@ -1,5 +1,5 @@
 
-![](https://s10.gifyu.com/images/ezgif-7-0e2de5f50ae6.gif)
+![](https://i.imgur.com/6mzd0bZ.gif)
 
   
 `Study📚 - Code👨🏻‍💻 - Sleep🛌🏻 - Repeat🔁`
