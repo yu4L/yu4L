@@ -1,12 +1,12 @@
 ### Hi there <a href="https://yungbeatz-carrd.co"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 All my useless programs and my project documentations can be found here! :rofl:
 
-- `🏢`🟌&nbsp;Currently working on my first game ever!
-- `🎓`🟌&nbsp;I’m currently learning C#, JS and Python
-- `📫`🟌&nbsp;How to reach me: [Discord](https://discord.com/users/605760781664911380) or [Twitter](https://twitter.com/ily_yungbeatz)
-- `👑`🟌 Founder of [RD](http://relaxed-downtown.ml) 💤
-- `💻`🟌&nbsp;Read more about my projects on my [Project Documentations](https://github.com/yungbeatz/My-Portfolios)
-- `🎵`🟌 Music Producer
+- `🏢`- &nbsp;Currently working on my first game ever!
+- `🎓`- &nbsp;I’m currently learning C#, JS and Python
+- `📫`- &nbsp;How to reach me: [Discord](https://discord.com/users/605760781664911380) or [Twitter](https://twitter.com/ily_yungbeatz)
+- `👑`- Founder of [RD](http://relaxed-downtown.ml) 💤
+- `💻`- &nbsp;Read more about my projects on my [Project Documentations](https://github.com/yungbeatz/My-Portfolios)
+- `🎵`- Music Producer
 
 
 
