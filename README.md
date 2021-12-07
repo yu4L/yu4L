@@ -28,6 +28,16 @@ All my useless programs and my project documentations can be found here! :rofl:
      </a>  
 </details>
 <details>
+  <summary><b>📊&nbsp;&nbsp;Most used Languages</b></summary>
+  <br/>
+  <p align="center"><br>
+ <p align="center"><br>
+  <a href="https://github.com/yungbeatz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungbeatz&theme=dark"/>
+     </a>
+  </p>
+</details>
+<details>
   <summary><b>👀&nbsp;&nbsp;What am I doing right now?</b></summary>
   <br/>
   <p align="center"><br>
