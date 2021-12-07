@@ -24,7 +24,7 @@ All my useless programs and my project documentations can be found here! :rofl:
   <br/>
   <p align="center"><br>
   <a href="https://github.com/yungbeatz">
- <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yung&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yung&theme=dark"/>
      </a>  
 </details>
 <details>
