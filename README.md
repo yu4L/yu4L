@@ -18,15 +18,6 @@ All my useless programs and my project documentations can be found here! :rofl:
     <img src="https://github-readme-stats.vercel.app/api?username=yungbeatz&show_icons=true&theme=dark"/>
      </a>
 </details>
-
-<details>
-  <summary><b>🕒&nbsp;&nbsp;Last Coding activity</b></summary>
-  <br/>
-  <p align="center"><br>
-  <a href="https://github.com/yungbeatz">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yung&theme=dark"/>
-     </a>  
-</details>
 <details>
   <summary><b>📊&nbsp;&nbsp;Most used Languages</b></summary>
   <br/>
@@ -47,16 +38,9 @@ All my useless programs and my project documentations can be found here! :rofl:
      </a>
   </p>
 </details>
-<details>
-  <summary><b>❓&nbsp;&nbsp;Whats this?</b></summary>
-	  <br/>
- <p align="center"><br>
-  <a href="https://media.giphy.com/media/NedT3iYk8tGjDfEYw3/giphy.gif">
-    <img src="https://media.giphy.com/media/NedT3iYk8tGjDfEYw3/giphy.gif"/>
-     </a>
-  </p>
-</details>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 
 
