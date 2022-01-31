@@ -2,7 +2,7 @@
 All my useless programs and my project documentations can be found here! :rofl:
 
 - `🏢`- &nbsp;Currently working on **[my own Discord Bot(js)](https://github.com/yungbeatz/Personal-Discord-Bot)**
-- `🎓`- &nbsp;I’m can program with `c#`, `js` and `python`
+- `🎓`- &nbsp;I can program with `c#`, `js` and `python`
 - `👻`- **My best creations right now: [Flappybird(py)](https://github.com/yungbeatz/flappybird), [My own Discord Bot(js)](https://github.com/yungbeatz/Personal-Discord-Bot) and [My own Discord Music Bot(js)](https://github.com/yungbeatz/Music-Bot)**
 - `📫`- &nbsp;Reach me on [Discord](https://discord.com/users/605760781664911380) 
 - `👑`- Founder of [RD](https://relaxed-downtown.com) 💤
