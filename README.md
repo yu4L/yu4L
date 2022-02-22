@@ -1,7 +1,7 @@
 ### HELLO <a href="https://yungbeatz-carrd.co"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 All my useless programs and my project documentations can be found here! :rofl:
 
-- `🏢`- &nbsp;Currently working on **[Indie-Game-Project)](https://github.com/yungbeatz/Indie-Game-Project)**
+- `🏢`- &nbsp;Currently working on **[Indie-Game-Project](https://github.com/yungbeatz/Indie-Game-Project)**
 - `🎓`- &nbsp;I know `c#`, `js` and `python`
 - `👻`- **My best creations right now: [Flappybird(py)](https://github.com/yungbeatz/flappybird), [My own Discord Bot(js)](https://github.com/yungbeatz/Personal-Discord-Bot) and [My own Discord Music Bot(js)](https://github.com/yungbeatz/Music-Bot)**
 - `📫`- &nbsp;Reach me on [Discord](https://discord.com/users/605760781664911380) 
