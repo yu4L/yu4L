@@ -1,4 +1,4 @@
-### HELLO <a href="https://yungbeatz-carrd.co"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### HELLO <a href="https://yungbeatz-carrd.co"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
 All my useless programs and my project documentations can be found here! :rofl:
 
 - `🏢`- &nbsp;Currently working on **[Indie-Game-Project](https://github.com/yungbeatz/Indie-Game-Project)**
