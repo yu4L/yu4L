@@ -2,7 +2,7 @@
 All my useless programs and my project documentations can be found here! :rofl:
 
 - `🏢`- &nbsp;Currently working on **[Indie-Game-Project](https://github.com/yungbeatz/Indie-Game-Project)**
-- `🎓`- &nbsp;I know `c#`, `js` and `python`
+- `🎓`- &nbsp;I know `c#`, `javascript` and `python`
 - `📫`- &nbsp;Reach me on [Discord](https://discord.com/users/605760781664911380) 
 - `👑`- Founder of [RD](https://relaxed-downtown.com) 💤
 - `💻`- &nbsp;Read more about my projects on my [Project Documentations](https://github.com/yungbeatz/My-Portfolios)
