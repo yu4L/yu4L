@@ -27,16 +27,13 @@ All my useless programs and my project documentations can be found here! :rofl:
      </a>
   </p>
 </details>
-<details>
-  <summary><b>👀&nbsp;&nbsp;What am I doing right now?</b></summary>
-  <br/>
+
   <p align="center"><br>
  <p align="center"><br>
   <a href="https://discord.com/users/605760781664911380">
     <img src="https://lanyard-profile-readme.vercel.app/api/605760781664911380"/>
      </a>
   </p>
-</details>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
