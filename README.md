@@ -27,8 +27,10 @@ All my useless programs and my project documentations can be found here! :rofl:
      </a>
   </p>
 </details>
-
-  <p align="center"><br>
+  <p align="center">
+ <a href="https://ko-fi.com/T6T2J9FXN">
+ <img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
+</p>
  <p align="center"><br>
   <a href="https://discord.com/users/605760781664911380">
     <img src="https://lanyard-profile-readme.vercel.app/api/605760781664911380"/>
