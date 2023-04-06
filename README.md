@@ -14,7 +14,7 @@ All my useless programs and my project documentations can be found here! :rofl:
   <br/>
   <p align="center"><br>
   <a href="https://github.com/yungbeatz">
-    <img src="https://github-readme-stats.vercel.app/api?username=yungbeatz&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yung4l&show_icons=true&theme=dark"/>
      </a>
 </details>
 <details>
@@ -23,7 +23,7 @@ All my useless programs and my project documentations can be found here! :rofl:
   <p align="center"><br>
  <p align="center"><br>
   <a href="https://github.com/yungbeatz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungbeatz&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yung4l&theme=dark"/>
      </a>
   </p>
 </details>
