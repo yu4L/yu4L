@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=yung4L&style=flat-square)
-
 ### HELLO <a href="https://yungbeatz-carrd.co"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" height="25px"></a>
 All my useless programs and my project documentations can be found here! :rofl:
 
@@ -29,8 +27,12 @@ All my useless programs and my project documentations can be found here! :rofl:
      </a>
   </p>
 </details>
-  <p align="center">
+ <p align="center">
  <a href="https://ko-fi.com/T6T2J9FXN">
+ <img src="https://komarev.com/ghpvc/?username=yung4L&style=flat-square"/>
+</p>
+  <p align="center">
+ <a href="https://discord.gg/scorch">
  <img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
 </p>
  <p align="center"><br>
