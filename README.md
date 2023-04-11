@@ -4,7 +4,6 @@ All my useless programs and my project documentations can be found here! :rofl:
 - `🏢`- &nbsp;Currently working on **[scorch](https://discord.gg/scorch)**
 - `🎓`- &nbsp;I know `c#`, `javascript` and `python`
 - `📫`- &nbsp;Reach me on [Discord](https://discord.com/users/605760781664911380) 
-- `💻`- &nbsp;Read more about my old school projects on my [Project Documentations](https://github.com/yungbeatz/My-Portfolios)
 - `🎵`- Music Producer
 
 
