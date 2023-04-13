@@ -13,7 +13,7 @@ All my useless programs and my project documentations can be found here! :rofl:
   <br/>
   <p align="center"><br>
   <a href="https://github.com/yungbeatz">
-    <img src="https://github-readme-stats.vercel.app/api?username=yung4l&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yu4l&show_icons=true&theme=dark"/>
      </a>
 </details>
 <details>
@@ -22,13 +22,13 @@ All my useless programs and my project documentations can be found here! :rofl:
   <p align="center"><br>
  <p align="center"><br>
   <a href="https://github.com/yungbeatz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yung4l&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu4l&theme=dark"/>
      </a>
   </p>
 </details>
  <p align="center">
  <a href="https://ko-fi.com/T6T2J9FXN">
- <img src="https://komarev.com/ghpvc/?username=yung4L&style=flat-square"/>
+ <img src="https://komarev.com/ghpvc/?username=yu4l&style=flat-square"/>
 </p>
   <p align="center">
  <a href="https://discord.gg/scorch">
