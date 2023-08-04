@@ -2,10 +2,6 @@
  <a href="https://ko-fi.com/T6T2J9FXN">
  <img src="https://komarev.com/ghpvc/?username=yung4L&style=flat-square"/>
 </p>
-  <p align="center">
- <a href="https://discord.gg/scorch">
- <img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
-</p>
  <p align="center"><br>
   <a href="https://discord.com/users/605760781664911380">
     <img src="https://lanyard-profile-readme.vercel.app/api/605760781664911380"/>
